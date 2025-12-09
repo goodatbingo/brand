@@ -5,11 +5,11 @@
 
 ## About Me
 
-I solve the craft-scale paradox: how do you maintain human judgment in content while enabling enterprise-scale automation? For 17+ years, I've built content systems and AI governance frameworks that let organizations produce 10x more content in half the time without losing quality or compliance.
+I solve the craft-scale paradox: how do you maintain human judgment in content while enabling enterprise-scale automation? For 17+ years, I've built content systems that now apply to AI governance frameworks that let organizations produce more content in less time without losing quality or compliance. That doesn't mean "more content" is better content, or will solve your business problem without the strategy in place.
 
 I grew up understanding that success isn't about being brilliant—it's about executing fundamentals consistently. That's why I call my consultancy "Good at Bingo": listening, pattern recognition, focused attention, clear communication. These aren't sexy, but they work.
 
-**Current context:** I'm Group Manager of Global Content Strategy at Avanade (Microsoft/Accenture joint venture), where I've built multi-LLM governance frameworks that accelerated $12M in pipeline and reduced content production time by 60%+ across regulated industries.
+**Current context:** I'm Group Manager of Global Content Strategy at Avanade (Microsoft/Accenture joint venture), where I've built a team, a discipline, and multi-LLM governance frameworks that accelerated millions of $USD in pipeline and reduced content production time by 60%+ for our teams.
 
 **Personal stuff:** I think in systems. I believe infrastructure work is more valuable than the AI tools themselves. My portfolio spans wildly different audiences—from Big History Project educational content to Pokémon to Toyota to Target—because designing for constraint forces clarity. When I get excited about a problem, I build frameworks. You'll know I'm really engaged when I start drawing diagrams.
 
