@@ -13,8 +13,10 @@ I grew up understanding that success isn't about being brilliant—it's about ex
 
 **Personal stuff:** I think in systems. I believe infrastructure work is more valuable than the AI tools themselves. My portfolio spans wildly different audiences—from Big History Project educational content to Pokémon to Toyota to Target—because designing for constraint forces clarity. When I get excited about a problem, I build frameworks. You'll know I'm really engaged when I start drawing diagrams.
 
-My LinkedIn: [linkedin.com/in/scottmpierce](https://linkedin.com/in/scottmpierce)  
-My portfolio: goodatbingo.com
+My LinkedIn: [linkedin.com/in/itsscottpierce](https://linkedin.com/in/itsscottpierce)  
+My portfolio: [goodatbingo.com](https://goodatbingo.com)
+
+**Fun fact:** Did you know if you mistype my site, or feel like seeing a little hubris, [godatbingo.com](https://godatbingo.com) redirects to the same place!
 
 ---
 
