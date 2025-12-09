@@ -1,4 +1,4 @@
-# My Personal ReadMe
+# My Personal README
 **Scott Pierce**
 
 *Last updated: December 2025*
@@ -83,7 +83,7 @@ I build the foundational infrastructure that makes AI content systems possible. 
 **Energy patterns:** I'm most creative in the morning. I do my best systems thinking before noon. Afternoons are for execution, collaboration, and meetings that need less cognitive load.
 
 **Collaboration preferences:**
-- I love whiteboarding (physical or Miro). It's how I think through complex problems.
+- I love whiteboarding (physical, MURAL or Miro...whatever makes stickies). It's how I think through complex problems. I'm also a LUMA certified Facilitator.
 - I default to async communication for efficiency, but sync for alignment on complex topics.
 - I'll often reframe or rephrase things to ensure shared understanding—this isn't questioning you, it's ensuring we're solving the same problem.
 - I ask "why" a lot. Not to challenge authority, but to understand constraints and surface assumptions.
